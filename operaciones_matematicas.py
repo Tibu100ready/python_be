@@ -21,10 +21,6 @@
 # ab=['adrian, pepe, ricardo, gonzalo']
 # ac={2,3,4}
 # X="Hola Mundo"
-<<<<<<< HEAD
-#Z={"hola" : "pepe", "edad" :  45}
-=======
->>>>>>> a3c699b32193eb498f612f25a944b4763a285572
 
 # print(type(x))
 # print(type(y))
@@ -32,10 +28,6 @@
 # print(type(aa))
 # print(type(ab))
 # print(type(ac))
-<<<<<<< HEAD
-# print(type(Z))
-=======
->>>>>>> a3c699b32193eb498f612f25a944b4763a285572
 # print(X)
 
 # """
@@ -69,13 +61,6 @@
 # print(y, x)
 # print(ab, aa)
 
-x = "awesome"
-
-def myfunc():
-  print("Python is " + x)
-
-myfunc()
-
 # x = "awesome"
 
 # def myfunc():
@@ -94,15 +79,6 @@ myfunc()
 
 # print("Python is " + x)
 
-x = "awesome"
-
-def myfunc():
-  global x
-  x = "fantastic"
-
-myfunc()
-
-print("Python is " + x)
 
 
 
