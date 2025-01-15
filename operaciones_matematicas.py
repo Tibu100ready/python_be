@@ -22,12 +22,19 @@
 # ac={2,3,4}
 # X="Hola Mundo"
 
+#Z={"hola" : "pepe", "edad" :  45}
+======
+
 # print(type(x))
 # print(type(y))
 # print(type(z))
 # print(type(aa))
 # print(type(ab))
 # print(type(ac))
+
+# print(type(Z))
+=======
+
 # print(X)
 
 # """
@@ -61,13 +68,6 @@
 # print(y, x)
 # print(ab, aa)
 
-x = "awesome"
-
-def myfunc():
-  print("Python is " + x)
-
-myfunc()
-
 # x = "awesome"
 
 # def myfunc():
@@ -86,15 +86,6 @@ myfunc()
 
 # print("Python is " + x)
 
-x = "awesome"
-
-def myfunc():
-  global x
-  x = "fantastic"
-
-myfunc()
-
-print("Python is " + x)
 
 
 
