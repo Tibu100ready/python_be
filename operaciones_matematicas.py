@@ -22,19 +22,12 @@
 # ac={2,3,4}
 # X="Hola Mundo"
 
-#Z={"hola" : "pepe", "edad" :  45}
-======
-
 # print(type(x))
 # print(type(y))
 # print(type(z))
 # print(type(aa))
 # print(type(ab))
 # print(type(ac))
-
-# print(type(Z))
-=======
-
 # print(X)
 
 # """

@@ -25,7 +25,7 @@ else:
 
 condicion=input("Eres gay? (si/no): ")
 
-while condicion != "no":
+while condicion == "si":
 
     edad=int(input("cagada "))
     if edad >= 18:
